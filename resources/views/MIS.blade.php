@@ -40,7 +40,10 @@
         <th> IFSI Code</th>
         <th> UPI ID</th>
         <th> Amount Paid</th>
-   
+
+
+
+
         
     </tr>
   </thead>
